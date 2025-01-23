@@ -6,7 +6,7 @@ And I'm a Front-end developer
 
 I've been learning how to code for over a year now, and I always try to approach my projects with diligence and attention to detail. When my code works properly I'm elated. When it doesn't, I see it as a challenge to overcome.
 
-* 🌍  I'm based in Maastricht, The Netherlands
+* 🌍  I'm based in Maastricht, Netherlands
 * ✉️  You can contact me at [nichogo@proton.me](mailto:nichogo@proton.me)
 
 ### Skills
