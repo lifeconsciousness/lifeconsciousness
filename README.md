@@ -1,10 +1,10 @@
-Hi, my name is Maksym Tovstolis 🌻
+Hi, my name is Maksym 🌻
 =================================
 
-And I'm a Front-end developer
+And I'm a Front-end developer. Here's my [portfolio](https://lifeconsciousness.github.io/portfolio/).
 -----------------------------
 
-I've been learning how to code for over a year now, and I always try to approach my projects with diligence and attention to detail. When my code works properly I'm elated. When it doesn't, I see it as a challenge to overcome.
+I've been designing digital solutions for over three years, and I always try to approach my projects with diligence and attention to detail. When my code works properly I'm elated. When it doesn't, I see it as a challenge to overcome.
 
 * 🌍  I'm based in Maastricht, Netherlands
 * ✉️  You can contact me at [nichogo@proton.me](mailto:nichogo@proton.me)
